@@ -2,7 +2,7 @@
 Kaggle ML Project -ZVIADI BERIDZE
 
 
-NY_Taxi_Project : https://nbviewer.org/github/SkillML/ML_Project/blob/main/Project_NY_TAXI.ipynb
+NY_Taxi_Project : https://nbviewer.org/github/AILogoSkill/ML_Projects/blob/main/Project_NY_TAXI.ipynb
 
 Clustering_Pro : https://colab.research.google.com/drive/1D7LtVfq2dDh5705e25ZQ1-TsjB27lz70?usp=sharing
 
